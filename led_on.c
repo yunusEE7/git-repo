@@ -3,8 +3,6 @@
 #include <stdint.h>
 
 //code to turn on led on arduino
-//code
-//hello world
 int main(void) {
 	
 	uint8_t *pDDRB = (uint8_t*)(0x24);
